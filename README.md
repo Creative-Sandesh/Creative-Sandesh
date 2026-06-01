@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Science+Student;Machine+Learning+Enthusiast;ASP.NET+Developer;Future+ML+Engineer&center=true&width=500&height=50)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=Creative-Sandesh&color=blue)
+
 # Hi 👋, I'm Sandesh Bohara
 
 ### Aspiring Data Scientist | Machine Learning Enthusiast | ASP.NET Developer
