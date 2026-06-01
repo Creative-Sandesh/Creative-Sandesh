@@ -147,32 +147,6 @@ LLM Applications      ███████░░░░░░░░
 
 ---
 
----
-
-
-# 📌 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/Creative-Sandesh/Text2SQL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Sandesh&repo=Text2SQL&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Creative-Sandesh/Linear-Model">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Sandesh&repo=Linear-Model&theme=tokyonight"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Creative-Sandesh/Tree-Based-Models-Ensembles-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Sandesh&repo=Tree-Based-Models-Ensembles-&theme=tokyonight"/>
-</a>
-
-</div>
-
----
 
 # 🚀 Open Source Journey
 
@@ -189,17 +163,9 @@ Cloud Computing         █████░░░░░░░░░░░░░ 3
 
 ---
 
-# 🎵 Currently Vibing To
-
-<div align="Left">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31675yqe4omca5trzicbmk34ekgq&cover_image=true&theme=default"/>
-
-</div>
-
 # 🧠 Developer Mindset
 
-<div align="Right">
+<div align="center">
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
