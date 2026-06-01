@@ -1,144 +1,99 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,100:2575FC&text=Sandesh%20Bohara&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Sandesh%20Bohara&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Data%20Scientist&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Aspiring+Data+Scientist;Machine+Learning+Engineer;Full+Stack+Developer;FastAPI+%7C+Spring+Boot+%7C+ASP.NET;Building+AI-Powered+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Aspiring+Machine+Learning+Engineer;Data+Science+Enthusiast;Full+Stack+Developer;FastAPI+%7C+Spring+Boot+%7C+ASP.NET;Building+AI+Powered+Applications;Always+Learning+Something+New"/>
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=Creative-Sandesh\&style=for-the-badge\&color=blue)
-
-[![GitHub followers](https://img.shields.io/github/followers/Creative-Sandesh?style=for-the-badge)](https://github.com/Creative-Sandesh)
-[![GitHub stars](https://img.shields.io/github/stars/Creative-Sandesh?style=for-the-badge)](https://github.com/Creative-Sandesh)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Creative-Sandesh&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Creative-Sandesh?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/Creative-Sandesh?style=for-the-badge&logo=github"/>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-</div>
+# 🚀 About Me
 
-# 👋 About Me
+<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ```yaml
 Name: Sandesh Bohara
-Location: Nepal 🇳🇵
-Education: Computer Science Student
+Role: Aspiring ML Engineer & Full Stack Developer
 
-Current Focus:
-  - Machine Learning
-  - Data Science
-  - Artificial Intelligence
-  - Data Engineering
-  - Backend Development
-  - System Design
+Currently:
+  Learning:
+    - Machine Learning
+    - Data Engineering
+    - MLOps
+    - LLM Applications
 
-Goal:
-  Become a Machine Learning Engineer / Data Scientist
+Building:
+    - AI Applications
+    - ASP.NET Projects
+    - FastAPI APIs
+    - Full Stack Systems
+
+Looking For:
+    - Open Source Collaboration
+    - ML Projects
+    - Internship Opportunities
 ```
-
-* 🎓 Computer Science Student
-* 🌱 Learning Advanced Machine Learning and Data Engineering
-* 🤖 Building AI and Machine Learning Projects
-* 💻 Developing scalable backend systems
-* 📊 Interested in NLP, Predictive Analytics, and MLOps
-* 🚀 Passionate about solving real-world problems with technology
 
 ---
 
-# 🛠️ Tech Stack
-
-## Languages
+# ⚡ Tech Universe
 
 <div align="center">
+
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,js,go,cs,html,css"/>
 
-</div>
+### Frontend
 
-## Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js"/>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript"/>
-
-</div>
-
-## Backend
-
-<div align="center">
+### Backend
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,dotnet,nodejs"/>
 
-</div>
+### Database
 
-## Database
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 
-<div align="center">
+### Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>
-
-</div>
-
-## DevOps & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,linux"/>
-
-</div>
-
-## Data Science & AI
-
-* Pandas
-* NumPy
-* Scikit-Learn
-* ML.NET
-* Matplotlib
-* Data Analytics
-* Machine Learning
-* Deep Learning
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 Text2SQL Agent
-
-AI-powered SQL Agent capable of reasoning, planning, and self-correcting SQL generation.
-
-### 🏥 Disease Prediction System
-
-ASP.NET Core MVC + ML.NET based disease prediction application.
-
-### 📊 Linear Models
-
-Implementation of Linear Regression and Machine Learning algorithms.
-
-### 🌲 Tree-Based Models & Ensembles
-
-Decision Trees, Random Forests, Gradient Boosting, and Ensemble Learning.
-
-### 📦 Inventory Management System
-
-Full-stack inventory management solution with database integration.
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Creative-Sandesh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creative-Sandesh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,visualstudio"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📌 Current Projects
+
+* 🤖 AI Text-to-SQL Agent
+* 🏥 Disease Prediction System
+* 📦 Inventory Management System
+* 🎓 University Academic Projects
+* 🚀 Machine Learning Portfolio
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Creative-Sandesh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creative-Sandesh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -148,49 +103,21 @@ Full-stack inventory management solution with database integration.
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Creative-Sandesh&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Creative-Sandesh&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Activity
+# 📈 Activity Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Creative-Sandesh&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 💻 Coding Statistics
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
----
-
-# 🧠 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark"/>
-
-</div>
-
----
-
-# 💬 Random Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -206,24 +133,37 @@ Full-stack inventory management solution with database integration.
 
 ---
 
-# 🌟 3D Contribution Calendar
+# 📚 Learning Roadmap 2026
+
+```text
+Machine Learning      ███████████░░░░
+Deep Learning         ████████░░░░░░░
+MLOps                 ██████░░░░░░░░░
+System Design         ███████░░░░░░░░
+Cloud Computing       █████░░░░░░░░░░
+LLM Applications      ███████░░░░░░░░
+```
+
+---
+
+# 💭 Random Developer Quote
 
 <div align="center">
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
+# 🎯 2026 Goals
 
-* Advanced Machine Learning
-* Data Engineering
-* MLOps
-* Large Language Models (LLMs)
-* Distributed Systems
-* Cloud Computing
+* Contribute to Open Source
+* Build Production-Ready AI Applications
+* Master FastAPI & ASP.NET
+* Learn Advanced MLOps
+* Participate in Hackathons
+* Publish Technical Articles
 
 ---
 
@@ -239,18 +179,14 @@ Full-stack inventory management solution with database integration.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-### ⚡ Building intelligent systems that solve real-world problems.
+### ⚡ "Code. Learn. Build. Repeat."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A11CB,100:2575FC"/>
