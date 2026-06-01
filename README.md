@@ -167,6 +167,200 @@ LLM Applications      ███████░░░░░░░░
 
 ---
 
+---
+
+# 📊 Advanced GitHub Metrics
+
+<div align="center">
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+</div>
+
+---
+
+# 📌 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/Creative-Sandesh/Text2SQL">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Sandesh&repo=Text2SQL&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Creative-Sandesh/Linear-Model">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Sandesh&repo=Linear-Model&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Creative-Sandesh/Tree-Based-Models-Ensembles-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Sandesh&repo=Tree-Based-Models-Ensembles-&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Creative-Sandesh">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Sandesh&repo=Creative-Sandesh&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# ⏱️ WakaTime Statistics
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+# 🏅 Holopin Badges
+
+<div align="center">
+
+[![An image of @sandeshbohara's Holopin badges](https://holopin.me/sandeshbohara)](https://holopin.io/@sandeshbohara)
+
+</div>
+
+---
+
+# 🌌 3D Contribution Calendar
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</div>
+
+---
+
+# 📈 Detailed Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Creative-Sandesh&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Creative-Sandesh&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Creative-Sandesh&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Creative-Sandesh&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Creative-Sandesh&theme=tokyonight&utcOffset=5.75"/>
+
+</div>
+
+---
+
+# 🚀 Open Source Journey
+
+```text
+Machine Learning        ████████████░░░░░░ 70%
+Deep Learning           █████████░░░░░░░░░ 55%
+FastAPI                 ████████████░░░░░░ 75%
+ASP.NET Core            ███████████░░░░░░░ 70%
+Spring Boot             ████████░░░░░░░░░░ 50%
+System Design           ███████░░░░░░░░░░░ 45%
+MLOps                   ██████░░░░░░░░░░░░ 40%
+Cloud Computing         █████░░░░░░░░░░░░░ 35%
+```
+
+---
+
+# 🎵 Currently Vibing To
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
+
+</div>
+
+---
+
+# 🧠 Developer Mindset
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⚙️ GitHub Metrics Setup
+
+Create:
+
+.github/workflows/metrics.yml
+
+```yaml
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_isocalendar: yes
+          plugin_stars: yes
+```
+
+---
+
+# 🌟 3D Contribution Setup
+
+Create:
+
+.github/workflows/profile-3d.yml
+
+```yaml
+name: 3D Contribution
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: profile-3d-contrib
+          path: profile-3d-contrib
+```
+
+
 # 🤝 Connect With Me
 
 <div align="center">
