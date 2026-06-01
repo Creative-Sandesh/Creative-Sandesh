@@ -1,99 +1,256 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Science+Student;Machine+Learning+Enthusiast;ASP.NET+Developer;Future+ML+Engineer&center=true&width=500&height=50)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=Creative-Sandesh&color=blue)
+<div align="center">
 
-# Hi 👋, I'm Sandesh Bohara
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,100:2575FC&text=Sandesh%20Bohara&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-### Aspiring Data Scientist | Machine Learning Enthusiast | ASP.NET Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Aspiring+Data+Scientist;Machine+Learning+Engineer;Full+Stack+Developer;FastAPI+%7C+Spring+Boot+%7C+ASP.NET;Building+AI-Powered+Applications"/>
 
-I'm a Computer Science student passionate about Machine Learning, Data Science, Backend Development, and AI-powered applications. I enjoy building projects that combine software engineering with intelligent systems to solve real-world problems.
+<br>
+
+![](https://komarev.com/ghpvc/?username=Creative-Sandesh\&style=for-the-badge\&color=blue)
+
+[![GitHub followers](https://img.shields.io/github/followers/Creative-Sandesh?style=for-the-badge)](https://github.com/Creative-Sandesh)
+[![GitHub stars](https://img.shields.io/github/stars/Creative-Sandesh?style=for-the-badge)](https://github.com/Creative-Sandesh)
+
+</div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</div>
+
+# 👋 About Me
+
+```yaml
+Name: Sandesh Bohara
+Location: Nepal 🇳🇵
+Education: Computer Science Student
+
+Current Focus:
+  - Machine Learning
+  - Data Science
+  - Artificial Intelligence
+  - Data Engineering
+  - Backend Development
+  - System Design
+
+Goal:
+  Become a Machine Learning Engineer / Data Scientist
+```
 
 * 🎓 Computer Science Student
-* 🌱 Currently learning Advanced Machine Learning and Data Engineering
-* 🤖 Building AI and Data Science projects
-* 💻 Developing applications using ASP.NET Core MVC and SQL Server
-* 📊 Interested in Predictive Analytics, NLP, and MLOps
-* 🎯 Goal: Become a Machine Learning Engineer / Data Scientist
+* 🌱 Learning Advanced Machine Learning and Data Engineering
+* 🤖 Building AI and Machine Learning Projects
+* 💻 Developing scalable backend systems
+* 📊 Interested in NLP, Predictive Analytics, and MLOps
+* 🚀 Passionate about solving real-world problems with technology
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
+## Languages
 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+<div align="center">
 
-### Machine Learning & Data Science
+<img src="https://skillicons.dev/icons?i=python,java,js,go,cs,html,css"/>
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![ML.NET](https://img.shields.io/badge/ML.NET-%23512BD4.svg?style=for-the-badge)
+</div>
 
-### Web Development
+## Frontend
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%23512BD4.svg?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript"/>
+
+</div>
+
+## Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,dotnet,nodejs"/>
+
+</div>
+
+## Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>
+
+</div>
+
+## DevOps & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,linux"/>
+
+</div>
+
+## Data Science & AI
+
+* Pandas
+* NumPy
+* Scikit-Learn
+* ML.NET
+* Matplotlib
+* Data Analytics
+* Machine Learning
+* Deep Learning
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
-### Text2SQL Agent
+### 🤖 Text2SQL Agent
 
-A mini SQL Agent capable of thinking, acting, and self-correcting while generating SQL queries.
+AI-powered SQL Agent capable of reasoning, planning, and self-correcting SQL generation.
 
-🔗 https://github.com/Creative-Sandesh/Text2SQL
-
-### Linear Models
-
-Implementation of Linear Regression and related machine learning concepts.
-
-🔗 https://github.com/Creative-Sandesh/Linear-Model
-
-### Tree-Based Models & Ensembles
-
-Implementation of Decision Trees, Random Forests, Gradient Boosting, and ensemble techniques.
-
-🔗 https://github.com/Creative-Sandesh/Tree-Based-Models-Ensembles-
-
-### Disease Prediction System
+### 🏥 Disease Prediction System
 
 ASP.NET Core MVC + ML.NET based disease prediction application.
 
----
+### 📊 Linear Models
 
-## 📈 GitHub Statistics
+Implementation of Linear Regression and Machine Learning algorithms.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creative-Sandesh\&show_icons=true\&theme=tokyonight)
+### 🌲 Tree-Based Models & Ensembles
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Creative-Sandesh\&layout=compact\&theme=tokyonight)
+Decision Trees, Random Forests, Gradient Boosting, and Ensemble Learning.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Creative-Sandesh\&theme=tokyonight)
+### 📦 Inventory Management System
 
----
-
-## 🏆 Achievements
-
-* Completed Data Science Fellowship Projects
-* Built Text-to-SQL AI Agent
-* Developed Machine Learning Applications
-* Working on Real-World AI Solutions
+Full-stack inventory management solution with database integration.
 
 ---
 
-## 📫 Connect With Me
+# 📈 GitHub Statistics
 
-* GitHub: https://github.com/Creative-Sandesh
-* LinkedIn: Add your LinkedIn URL here
-* Email: Add your email here
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Creative-Sandesh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creative-Sandesh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-⭐ If you like my work, feel free to explore my repositories and connect with me.
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Creative-Sandesh&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Creative-Sandesh&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Creative-Sandesh&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 💻 Coding Statistics
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+---
+
+# 🧠 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark"/>
+
+</div>
+
+---
+
+# 💬 Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/Creative-Sandesh/Creative-Sandesh/blob/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌟 3D Contribution Calendar
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced Machine Learning
+* Data Engineering
+* MLOps
+* Large Language Models (LLMs)
+* Distributed Systems
+* Cloud Computing
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Creative-Sandesh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sandesh-bohara1325">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building intelligent systems that solve real-world problems.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A11CB,100:2575FC"/>
