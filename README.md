@@ -103,31 +103,11 @@ Looking For:
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Creative-Sandesh&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 📈 Activity Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Creative-Sandesh&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://github.com/Creative-Sandesh/Creative-Sandesh/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -175,19 +155,19 @@ LLM Applications      ███████░░░░░░░░
 <div align="center">
 
 <a href="https://github.com/Creative-Sandesh/Text2SQL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Sandesh&repo=Text2SQL&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Sandesh&repo=Text2SQL&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/Creative-Sandesh/Linear-Model">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Sandesh&repo=Linear-Model&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Sandesh&repo=Linear-Model&theme=tokyonight"/>
 </a>
+
+</div>
+
+<div align="center">
 
 <a href="https://github.com/Creative-Sandesh/Tree-Based-Models-Ensembles-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Sandesh&repo=Tree-Based-Models-Ensembles-&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Creative-Sandesh">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Sandesh&repo=Creative-Sandesh&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Sandesh&repo=Tree-Based-Models-Ensembles-&theme=tokyonight"/>
 </a>
 
 </div>
@@ -211,17 +191,15 @@ Cloud Computing         █████░░░░░░░░░░░░░ 3
 
 # 🎵 Currently Vibing To
 
-<div align="center">
+<div align="Left">
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31675yqe4omca5trzicbmk34ekgq&cover_image=true&theme=default"/>
 
 </div>
 
----
-
 # 🧠 Developer Mindset
 
-<div align="center">
+<div align="Right">
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
